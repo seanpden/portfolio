@@ -32,9 +32,17 @@
 				<!-- div to contain img, project title, description -->
 				<div class="flex pb-4">
 					<!-- div for img -->
-					<div class="basis-1/3 pr-2"><img src="https://picsum.photos/200" alt="" /></div>
+					<div class="hidden md:block basis-1/3 pr-2">
+						<img
+							src="https://webthumb.flowjo.com/?p=media%2FProduct-Images-FlowJo.png&w=800"
+							height="162"
+							width="162"
+							alt=""
+							style="width:162;height:162px;"
+						/>
+					</div>
 					<!-- div for project title and description -->
-					<div class="basis-2/3">
+					<div class="basis-full md:basis-2/3">
 						<a href="/" id="About" class="h4 font-semibold pb-2 hover:text-primary-500"
 							>Diagnosing Acute Myloid Leukemia with Machine Learning Algorithms 🔗</a
 						>
@@ -58,9 +66,17 @@
 				<!-- div to contain img, project title, description -->
 				<div class="flex pb-4">
 					<!-- div for img -->
-					<div class="basis-1/3 pr-2"><img src="https://picsum.photos/200" alt="" /></div>
+					<div class="hidden md:block basis-1/3 pr-2">
+						<img
+							src="https://www1.djicdn.com/cms/uploads/3a800890a9e26382f74908783cd653b9@1x.webp"
+							alt=""
+							height="162px"
+							width="162px"
+							style="width:162;height:162px;"
+						/>
+					</div>
 					<!-- div for project title and description -->
-					<div class="basis-2/3">
+					<div class="basis-full md:basis-2/3">
 						<a href="/" id="About" class="h4 font-semibold pb-2 hover:text-primary-500"
 							>Drone Farming 🔗</a
 						>
@@ -80,9 +96,17 @@
 				<!-- div to contain img, project title, description -->
 				<div class="flex pb-4">
 					<!-- div for img -->
-					<div class="basis-1/3 pr-2"><img src="https://picsum.photos/200" alt="" /></div>
+					<div class="hidden md:block basis-1/3 pr-2">
+						<img
+							src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.centennialco.gov%2Ffiles%2Fsharedassets%2Fpublic%2Fimages%2Fresidents%2Fcovid-19.png%3Fw%3D1200&f=1&nofb=1&ipt=49152db75d0a8889fd6a29e06cbbdea947f24d21715177c114668f291f11283e&ipo=images"
+							height="162"
+							width="162"
+							alt=""
+							style="width:162;height:162px;"
+						/>
+					</div>
 					<!-- div for project title and description -->
-					<div class="basis-2/3">
+					<div class="basis-full md:basis-2/3">
 						<a href="/" id="About" class="h4 font-semibold pb-2 hover:text-primary-500"
 							>Epidemic Probability Simulator 🔗</a
 						>

@@ -1,3 +1,3 @@
 <div class="items-center justify-center text-center mb-10">
-	<p class="card-hover hover:text-primary-500">Designed & Built by Sean Denney</p>
+	<p class=" hover:text-primary-500">Designed & Built by Sean Denney</p>
 </div>

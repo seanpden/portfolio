@@ -14,8 +14,8 @@
 			class="fixed bottom-0 left-0 h-min mb-10 ml-10 w-16 ..."
 			transition:fly={{ y: 200, duration: 2000 }}
 		>
-			<a href="https://github.com">
-				<div class="mb-2 card-hover">
+			<a href="https://github.com/seanpden">
+				<div class="mb-2 card-hover hover:animate-pulse hover:text-primary-500">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="32"
@@ -30,8 +30,8 @@
 					</svg>
 				</div>
 			</a>
-			<a href="https://www.instagram.com">
-				<div class="mb-2 card-hover">
+			<a href="https://www.instagram.com/sean_denney/">
+				<div class="mb-2 card-hover hover:animate-pulse hover:text-primary-500">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="32"
@@ -46,8 +46,8 @@
 					</svg>
 				</div>
 			</a>
-			<a href="https://www.linkedin.com">
-				<div class="mb-2 card-hover">
+			<a href="https://www.linkedin.com/in/seanpden/">
+				<div class="mb-2 hover:animate-pulse hover:text-primary-500">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="32"

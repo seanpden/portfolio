@@ -7,11 +7,11 @@
 			<h3 id="Contact" class="h3 font-semi-bold pb-2">Contact</h3>
 		</div>
 		<hr class="pb-2" />
-		<p class="flex justify-center">
-			Feel free to reach out to me! I'm always happy to hear from you.
-		</p>
-		<div class="mt-4 flex justify-center">
-			<button class="btn variant-filled">Contact me!</button>
+		<p class="flex">Feel free to reach out to me! I'm always happy to hear from you.</p>
+		<div class="mt-4">
+			<button class="btn variant-filled">
+				<a href="mailto:seanden522@gmail.com">Contact me!</a>
+			</button>
 		</div>
 	</div>
 </div>

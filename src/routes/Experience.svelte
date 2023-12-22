@@ -29,8 +29,8 @@
 				<h3 id="Experience" class="h3 font-semi-bold pb-2">Experience</h3>
 			</div>
 			<hr class="pb-2" />
-			<div class="flex pt-1">
-				<ListBox class="basis-1/3 pr-3">
+			<div class="flex flex-col md:flex-row sm: pt-1">
+				<ListBox class="md:basis-1/3 basis-full pb-4 pr-3">
 					<ListBoxItem bind:group={valueSingle} name="medium" value="mcleodsoftware"
 						>Mcleod Software</ListBoxItem
 					>
@@ -42,7 +42,7 @@
 					> -->
 				</ListBox>
 				<!-- <div class="basis-1/3">Job 1</div> -->
-				<div class="basis-2/3">
+				<div class="md:basis-full basis-2/3">
 					{#if valueSingle == 'mcleodsoftware'}
 						<McleodSoftware {debugIntern} />
 					{:else if valueSingle == 'bamabudweiser'}
