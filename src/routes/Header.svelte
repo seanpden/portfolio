@@ -41,11 +41,13 @@
 					</svg>
 				</span>
 			</button> -->
-			<button
-				type="button"
-				class="btn variant-ghost md:hidden"
-				transition:fly={{ y: `${yoffset}`, duration: 1500 }}>Resume</button
-			>
+			<a class="md:hidden" href="/resume.pdf" target="_blank" rel="noreferrer">
+				<button
+					type="button"
+					class="btn variant-ghost"
+					transition:fly={{ y: `${yoffset}`, duration: 1500 }}>Resume</button
+				>
+			</a>
 			<div class="hidden md:flex">
 				<a
 					class={selectedSection === 'About' ? selectedClass : unselectedClass}
@@ -87,11 +89,14 @@
 					<p />
 					Contact</a
 				>
-				<button
-					type="button"
-					class="btn variant-ghost"
-					transition:fly={{ y: `${yoffset}`, duration: 1500 }}>Resume</button
-				>
+				<a href="/resume.pdf" target="_blank" rel="noreferrer">
+					<button
+						type="button"
+						class="btn variant-ghost"
+						transition:fly={{ y: `${yoffset}`, duration: 1500 }}
+						>Resume
+					</button>
+				</a>
 			</div>
 		{/if}
 	</svelte:fragment>
