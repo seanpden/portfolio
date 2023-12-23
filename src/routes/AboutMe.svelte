@@ -38,12 +38,18 @@
 				>, and building software solutions for my own clients.
 			</p>
 			<p class="mb-4">
-				My current focus is continuing my education while working as a data engineer. I plan on
-				enrolling into UT Austin's Master's of Computer Science program.
+				<!-- My current focus is continuing my education while working as a data engineer. I plan on -->
+				<!-- enrolling into UT Austin's Master's of Computer Science program.  -->
+
+				I am dedicated to advancing my education and knowledge while working as a data engineer. My
+				next step involves enrolling in a Master's of Computer Science program.
 			</p>
 			<p class="">
-				When I'm not learning or working, I'm probably at the gym, catching up with friends, or
-				running around Baldur's Gate, looking for an adventure.
+				<!-- When I'm not learning or working, I'm probably at the gym, catching up with friends, or
+				running around Baldur's Gate, looking for an adventure. -->
+
+				When I'm not learning or working, you'll likely find me at the gym, catching up with
+				friends, or immersed in the digital landscapes of Baldur's Gate, seeking new adventures.
 			</p>
 		</div>
 	</div>

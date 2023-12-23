@@ -21,7 +21,7 @@
 		<p class="">
 			<!-- I engineer seamless and efficient software solutions while architecting and optimizing data
 			pipelines. -->
-			I architect robust and efficient data solutions and software.
+			I build robust and efficient data solutions and software.
 		</p>
 	</div>
 {:else}

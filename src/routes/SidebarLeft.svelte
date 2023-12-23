@@ -21,7 +21,7 @@
 						width="32"
 						height="32"
 						fill="currentColor"
-						class="bi bi-github"
+						class="bi bi-github card-hover"
 						viewBox="0 0 16 16"
 					>
 						<path
@@ -31,13 +31,13 @@
 				</div>
 			</a>
 			<a href="https://www.instagram.com/sean_denney/">
-				<div class="mb-2 card-hover hover:animate-pulse hover:text-primary-500">
+				<div class="mb-2 hover:animate-pulse hover:text-primary-500">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						width="32"
 						height="32"
 						fill="currentColor"
-						class="bi bi-instagram"
+						class="bi bi-instagram card-hover"
 						viewBox="0 0 16 16"
 					>
 						<path
@@ -53,7 +53,7 @@
 						width="32"
 						height="32"
 						fill="currentColor"
-						class="bi bi-linkedin"
+						class="bi bi-linkedin card-hover"
 						viewBox="0 0 16 16"
 					>
 						<path

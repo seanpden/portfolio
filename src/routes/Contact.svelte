@@ -1,4 +1,3 @@
-<!-- <div class="flex items-center justify-center h-2/3"> -->
 <div class="">
 	<!-- Div for landing section -->
 	<div class="mb-48">
