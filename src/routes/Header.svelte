@@ -3,6 +3,8 @@
 	import { onMount } from 'svelte';
 	import { fly } from 'svelte/transition';
 
+	const RESUME_URL = '/20240121resume.pdf';
+
 	let ready = false;
 	let yoffset = -200;
 	onMount(() => {
@@ -41,7 +43,7 @@
 					</svg>
 				</span>
 			</button> -->
-			<a class="md:hidden" href="/resume.pdf" target="_blank" rel="noreferrer">
+			<a class="md:hidden" href={RESUME_URL} target="_blank" rel="noreferrer">
 				<button
 					type="button"
 					class="btn variant-ghost"
@@ -89,7 +91,7 @@
 					<p />
 					Contact</a
 				>
-				<a href="/resume.pdf" target="_blank" rel="noreferrer">
+				<a href={RESUME_URL} target="_blank" rel="noreferrer">
 					<button
 						type="button"
 						class="btn variant-ghost"
