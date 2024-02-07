@@ -3,7 +3,7 @@
 	import { onMount } from 'svelte';
 	import { fly } from 'svelte/transition';
 
-	const RESUME_URL = '/20240121resume.pdf';
+	const RESUME_URL = '2024-02-06_Public-Resume.pdf';
 
 	let ready = false;
 	let yoffset = -200;
