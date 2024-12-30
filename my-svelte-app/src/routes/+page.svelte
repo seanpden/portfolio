@@ -17,17 +17,14 @@
 </script>
 
 <div
-	class="mx-x my-y font-base font-base font-base mocha grid grid-cols-[auto_1fr_auto] items-center bg-transparent font-mono text-text"
+	class="mx-x my-y font-base font-base font-base mocha invisible grid grid-cols-[auto_1fr_auto] items-center bg-transparent font-mono text-text md:visible"
 >
 	<Group group="home" class="col-auto min-w-32 justify-self-start">
 		<div>
 			<a class="hover:text-peach" href="/">seanpden.dev</a>
 		</div>
 	</Group>
-	<Group
-		group="nav"
-		class="col-auto grid w-full justify-self-center overflow-scroll md:overflow-auto"
-	>
+	<Group group="nav" class="col-auto grid w-full justify-self-center md:visible md:overflow-auto">
 		<div>00. About</div>
 		<div>01. Experience</div>
 		<div>02. Project</div>
