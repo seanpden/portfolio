@@ -4,8 +4,6 @@
 	import LeftGroup from '../components/LeftGroup.svelte';
 	import MainGroup from '../components/MainGroup.svelte';
 
-	console.log('Health check...');
-
 	let dt = $state(new Date().toLocaleString());
 	let headerheight = $state(0);
 
@@ -61,13 +59,7 @@
 >
 	<LeftGroup group="social" class="col-auto min-w-32 justify-self-start">
 		<div>
-			{'as wide as I need it to be'}
-		</div>
-		<div>
-			{'as wide as I need it to be'}
-		</div>
-		<div>
-			{'as wide as I need it to be'}
+			{'wide'}
 		</div>
 	</LeftGroup>
 	<MainGroup group="main" class="col-auto w-full justify-self-center">
