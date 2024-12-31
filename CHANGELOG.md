@@ -17,9 +17,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- [ ] The Group component has been abstracted to better account for each major
+## [0.3.0] - 2024-12-31
+
+### Changed
+
+- [x] Hover color changed to a more pleasing accent.
+- [x] Background color changed to be darker - closer to what a terminal background
+might be.
+- [x] The Group component has been abstracted to better account for each major
 UI element.
-- [ ] Hover color changed to a more pleasing accent.
 
 ## [0.2.0] - 2024-12-31
 
