@@ -1,6 +1,7 @@
 <script lang="ts">
 	import Group from '../components/Group.svelte';
 	import { onMount } from 'svelte';
+	import SocialMedia from '../components/SocialMedia.svelte';
 
 	let dt = $state(new Date().toLocaleString());
 	let headerheight = $state(0);
@@ -35,7 +36,7 @@
 	<!-- > -->
 	<Group group="home" class="col-auto min-w-32 justify-self-start" content_class="w-fit">
 		<div>
-			<a class="hover:text-peach" href="/">seanpden.dev</a>
+			<a class="hover:text-mauve" href="/">seanpden.dev</a>
 		</div>
 	</Group>
 	<Group
@@ -61,27 +62,10 @@
 >
 	<Group
 		group="social"
-		class="col-auto min-w-32 justify-self-start"
-		content_class="w-32 flex-col text-left "
+		class="col-auto justify-self-start"
+		content_class="min-w-32 flex-col text-left mt-2"
 	>
-		<div class="self-start">
-			{'github'}
-		</div>
-		<div class="self-start">
-			{'instagram'}
-		</div>
-		<div class="self-start">
-			{'linkedin'}
-		</div>
-		<div class="self-start">
-			{'mastadon'}
-		</div>
-		<div class="self-start">
-			{'bluesky'}
-		</div>
-		<div class="self-start">
-			{'email'}
-		</div>
+		<SocialMedia></SocialMedia>
 	</Group>
 	<Group
 		group="main"

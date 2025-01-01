@@ -14,8 +14,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] Project section contents.
 - [ ] Contact section contents.
 - [ ] Resume.
+- [ ] Implemented effects for navbar.
 
-### Changed
+## [0.4.0] - 2025-01-01
+
+### Added
+
+- [x] Social media section with icons.
 
 ## [0.3.0] - 2024-12-31
 
