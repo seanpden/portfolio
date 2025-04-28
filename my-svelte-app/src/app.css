@@ -2,4 +2,9 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-@import "https://www.nerdfonts.com/assets/css/webfont.css"
+@import "https://www.nerdfonts.com/assets/css/webfont.css";
+
+* {
+  scrollbar-color: #cba6f7 transparent;
+  scrollbar-width: thin;
+}

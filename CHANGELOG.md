@@ -9,12 +9,38 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- [ ] About section contents.
 - [ ] Experience section contents.
 - [ ] Project section contents.
 - [ ] Contact section contents.
 - [ ] Resume.
-- [ ] Implemented effects for navbar.
+
+### Changed
+
+### Fixed
+
+- [ ] Main group viewport calculation.
+- [ ] Fix empty space below content on mobile layout
+
+## [0.5.0] - 2025-04-27
+
+### Added
+
+- [x] About section contents.
+- [x] Implement effects for navbar.
+- [x] Warning for users with less than 1080px wide viewport
+- [x] Minimum widths for certain elements
+
+### Changed
+
+- [x] Margin around all elements.
+
+### Fixed
+
+- [x] Continue to seperate each component
+- [x] MainBlock scrolls to fit
+- [x] Account for mobile layout
+- [x] Social Media links clickable from text and icon
+- [x] Properly handle overflow in main group
 
 ## [0.4.0] - 2025-01-01
 
