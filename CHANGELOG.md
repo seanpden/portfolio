@@ -21,6 +21,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] Main group viewport calculation.
 - [ ] Fix empty space below content on mobile layout
 
+## [0.5.1] - 2025-04-29
+
+### Fixed
+
+- [x] Fix deployed version having visible scrollbar
+
 ## [0.5.0] - 2025-04-27
 
 ### Added
