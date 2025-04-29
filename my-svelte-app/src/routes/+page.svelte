@@ -52,7 +52,7 @@
 	});
 </script>
 
-<div class="m-2 font-mono">
+<div class="m-2 overflow-y-hidden font-mono">
 	<!-- {handleMobileAlert()} -->
 	<!-- TOPBAR -->
 	<div
