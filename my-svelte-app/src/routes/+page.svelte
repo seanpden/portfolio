@@ -6,11 +6,15 @@
 	import MainBlock from '../components/MainBlock.svelte';
 	import Home from '../components/Home.svelte';
 	import Info from '../components/Info.svelte';
+	import Accessibility from '../components/Accessibility.svelte';
 
 	let dt = $state(new Date().toLocaleString());
 	let headerheight = $state(0);
 	let section = $state('');
 	let selectedclass = 'font-bold underline';
+
+	let crt_status = $state(true);
+	let crt_class = $state('crt');
 
 	function handleMobileAlert() {
 		alert('For the best experience, please use a device that is at least 1080px wide.');
@@ -52,15 +56,16 @@
 	});
 </script>
 
-<div class="m-2 font-mono md:overflow-y-hidden">
+<div class="{crt_class} m-2 font-mono md:overflow-y-hidden">
 	<!-- {handleMobileAlert()} -->
 	<!-- TOPBAR -->
 	<div
-		class="font-base mocha grid min-w-[1080px] grid-cols-[auto_1fr_auto] items-center bg-transparent text-text"
+		class="font-base mocha grid min-w-[1080px] grid-cols-[auto_1fr_auto_auto] items-center bg-transparent text-text"
 		id="myDiv"
 	>
 		<Home {section}></Home>
 		<Nav {selectedclass} {section}></Nav>
+		<Accessibility {crt_status} {crt_class}></Accessibility>
 		<Info {dt}></Info>
 	</div>
 
