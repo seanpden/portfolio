@@ -105,6 +105,7 @@
 	<div class="self-start">
 		<h2 class="font-bold">
 			Diagnosing Acute Myeloid Leukemia with Supervised Machine Learning Algorithms
+			<i class="nf nf-oct-link_external"></i>
 		</h2>
 		<h3 class="italic">{'python, numpy, pandas, sklearn'}</h3>
 		<p>
@@ -114,14 +115,20 @@
 	</div>
 
 	<div class="self-start">
-		<h2 class="font-bold">Drone Farming</h2>
+		<h2 class="font-bold">
+			Drone Farming
+			<i class="nf nf-oct-link_external"></i>
+		</h2>
 		<h3 class="italic">{'java, javafx, dji sdk'}</h3>
 		<p>An autonomous drone that scans farmland and manages farming assets.</p>
 	</div>
 
 	<div class="self-start">
 		<div class="self-start">
-			<h2 class="font-bold">Epidemic Probability Simulator</h2>
+			<h2 class="font-bold">
+				Epidemic Probability Simulator
+				<i class="nf nf-oct-link_external"></i>
+			</h2>
 			<h3 class="italic">{'python, numpy'}</h3>
 			<p>
 				Full simulation of an epidemic amongst a population, complete with vaccination status,

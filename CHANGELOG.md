@@ -9,19 +9,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- [ ] Experience section contents.
-- [ ] Project section contents.
-- [ ] Contact section contents.
-- [ ] Resume.
-- [ ] CRT Filter.
-- [ ] Accessibility group in bottom left corner.
+- [ ] Resume file.
 
-### Changed
+<!-- ### Changed -->
 
 ### Fixed
 
 - [ ] Main group viewport calculation.
 - [ ] Fix empty space below content on mobile layout
+- [ ] Fix links to external sources (repos, resume, jobs, etc.).
+
+## [0.6.0] - 2025-05-10
+
+### Added
+
+- [x] Experience section contents.
+- [x] Project section contents.
+- [x] Contact section contents.
+- [x] Resume button.
+- [x] CRT Filter.
+- [x] Accessibility group for toggling CRT filter
 
 ## [0.5.1] - 2025-04-29
 
