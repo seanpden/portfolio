@@ -19,6 +19,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] Fix empty space below content on mobile layout
 - [ ] Fix links to external sources (repos, resume, jobs, etc.).
 
+## [0.6.1] - 2025-05-10
+
+### Fixed
+
+- [x] Fix deployed version having visible scrollbar... again.
+
 ## [0.6.0] - 2025-05-10
 
 ### Added
