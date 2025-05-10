@@ -9,6 +9,10 @@
   scrollbar-width: thin;
 }
 
+p {
+  margin-bottom: 0.5rem;
+}
+
 @keyframes flicker {
   0% {
     opacity: 0.27861;
