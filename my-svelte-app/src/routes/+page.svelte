@@ -56,7 +56,7 @@
 	});
 </script>
 
-<div class="{crt_class} m-2 font-mono md:overflow-y-hidden">
+<div class="{crt_class} m-2 font-mono">
 	<!-- {handleMobileAlert()} -->
 	<!-- TOPBAR -->
 	<div
