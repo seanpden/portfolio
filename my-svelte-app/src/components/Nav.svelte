@@ -40,4 +40,13 @@
 			03. Contact</a
 		>
 	</div>
+	<div>
+		<a
+			class="hover:text-mauve {section === 'resume' ? selectedclass : ''}"
+			href="/"
+			onclick={() => (section = 'contact')}
+		>
+			04. Resume</a
+		>
+	</div>
 </Group>

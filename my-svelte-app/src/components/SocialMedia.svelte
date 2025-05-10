@@ -65,6 +65,7 @@
 			<div>bluesky</div>
 		</a>
 	</div>
+
 	<div class="text-center hover:text-mauve">
 		<a
 			target="_blank"
@@ -74,6 +75,13 @@
 		>
 			<i class="nf nf-md-email text-3xl"></i>
 			<div>email</div>
+		</a>
+	</div>
+
+	<div class="text-center hover:text-mauve">
+		<a target="_blank" rel="me noreferrer noopener" href="/" aria-label="resume">
+			<i class="nf nf-md-file text-3xl"></i>
+			<div>resume</div>
 		</a>
 	</div>
 </Group>

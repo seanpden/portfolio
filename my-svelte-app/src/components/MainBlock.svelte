@@ -38,31 +38,113 @@
 			seeking new adventures.
 		</p>
 	</div>
+
 	<div class="self-start font-bold underline">
 		<h1 id="experience">{'Experience'}</h1>
 	</div>
+
 	<div class="self-start">
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua'}
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
+		<h2 class="font-bold">{'Data Engineer @ Mcleod Software'}</h2>
+		<h3 class="italic">{'Dec. 2022 - Current'}</h3>
+		<ul class="list-inside list-disc">
+			<li>
+				Designed custom RESTlet APIs in NetSuite; used to analyze of $300,000,000+ in transactions.
+			</li>
+			<li>
+				Deployed a distributed, scalable Dagster environment in Azure, orchestrating 100s of
+				pipelines.
+			</li>
+			<li>
+				Established data governance standards, securing 10+ TB of enterprise data in a data
+				lakehouse.
+			</li>
+			<li>
+				Developed a python package to interface with Lansweeper’s API, deployed an ETL process, then
+				modeled installed software over time - aiding in fulfilling SOC-2 compliance standards.
+			</li>
+		</ul>
 	</div>
+
+	<div class="self-start">
+		<h2 class="font-bold">{'Data Scientist @ Mcleod Software'}</h2>
+		<h3 class="italic">{'May 2022 - Dec. 2022'}</h3>
+		<ul class="list-inside list-disc">
+			<li>
+				Designed internal expenditure dashboards in Power BI, addressing $20,000,000+ in spending.
+			</li>
+			<li>
+				Constructed internal tools utilizing many SDKs and APIs to extract, transform, and load data
+				to a newly constructed MSSQL warehouse for further mining, analysis, and modeling.
+			</li>
+		</ul>
+	</div>
+
+	<div class="self-start">
+		<h2 class="font-bold">{'IT Assistant @ Bama Budweiser'}</h2>
+		<h3 class="italic">{'Nov. 2018 - Jan. 2019'}</h3>
+		<ul class="list-inside list-disc">
+			<li>Deployed a data collection solution for company distribution assets, saving $10,000+.</li>
+			<li>
+				Implemented a timely completion of warehouse-wide OS upgrades, impacting 30+ employees.
+			</li>
+		</ul>
+	</div>
+
+	<div class="self-start">
+		<p>
+			Access my full Resume
+			<a class="hover:anchor font-bold" href="/">here</a>
+			or from the left sidebar.
+		</p>
+	</div>
+
 	<div class="self-start font-bold underline">
-		<h1 id="project">{'Project'}</h1>
+		<h1 id="project">{'Projects'}</h1>
 	</div>
+
 	<div class="self-start">
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
+		<h2 class="font-bold">
+			Diagnosing Acute Myeloid Leukemia with Supervised Machine Learning Algorithms
+			<i class="nf nf-oct-link_external"></i>
+		</h2>
+		<h3 class="italic">{'python, numpy, pandas, sklearn'}</h3>
+		<p>
+			A machine learning model that can parse cytometry data and diagnose an individual with acute
+			myeloid leukemia.
+		</p>
 	</div>
+
+	<div class="self-start">
+		<h2 class="font-bold">
+			Drone Farming
+			<i class="nf nf-oct-link_external"></i>
+		</h2>
+		<h3 class="italic">{'java, javafx, dji sdk'}</h3>
+		<p>An autonomous drone that scans farmland and manages farming assets.</p>
+	</div>
+
+	<div class="self-start">
+		<div class="self-start">
+			<h2 class="font-bold">
+				Epidemic Probability Simulator
+				<i class="nf nf-oct-link_external"></i>
+			</h2>
+			<h3 class="italic">{'python, numpy'}</h3>
+			<p>
+				Full simulation of an epidemic amongst a population, complete with vaccination status,
+				immunity chance, population density, and more.
+			</p>
+		</div>
+	</div>
+
 	<div class="self-start font-bold underline">
 		<h1 id="contact">{'Contact'}</h1>
 	</div>
-	<div class="self-start">
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
-	</div>
-	<div class="self-start">
-		{'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'}
+	<div class="flex flex-col self-start">
+		<p>Feel free to reach out to me! I'm always happy to hear from you.</p>
+		<p>
+			Contact me
+			<a class="hover:anchor font-bold" href="/">here!</a>
+		</p>
 	</div>
 </Group>
