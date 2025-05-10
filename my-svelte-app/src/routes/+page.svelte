@@ -65,7 +65,7 @@
 	>
 		<Home {section}></Home>
 		<Nav {selectedclass} {section}></Nav>
-		<Accessibility {crt_status} {crt_class}></Accessibility>
+		<Accessibility bind:crt_status bind:crt_class></Accessibility>
 		<Info {dt}></Info>
 	</div>
 

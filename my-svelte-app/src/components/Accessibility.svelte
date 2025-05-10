@@ -1,20 +1,11 @@
 <script>
 	import Group from './Group.svelte';
 
-	let { crt_status, crt_class } = $props();
+	let { crt_status = $bindable(), crt_class = $bindable() } = $props();
 
 	function toggle_crt() {
-		console.log(`old crt_status: ${crt_status}`);
 		crt_status = !crt_status;
-		console.log(`new crt_status: ${crt_status}`);
-
-		if (crt_status === true) {
-			crt_class = 'crt';
-		} else {
-			crt_class = '';
-		}
-
-		console.log(`new crt_class: ${crt_class}`);
+		crt_status ? (crt_class = 'crt') : (crt_class = '');
 	}
 </script>
 
@@ -24,6 +15,8 @@
 	content_class="w-fit"
 >
 	<div>
-		<button class="hover:text-mauve" onclick={() => toggle_crt()}> CRT On/Off </button>
+		<button class="hover:text-mauve" onclick={() => toggle_crt()}>
+			{crt_status ? 'Toggle CRT [x]' : 'Toggle CRT [ ]'}
+		</button>
 	</div>
 </Group>
